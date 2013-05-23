@@ -18,4 +18,4 @@ Why People Choose Python
 * Large Community
 * Easy to learn 
 
-`Outline <README.rst>`_
+`Outline <outline.rst>`_

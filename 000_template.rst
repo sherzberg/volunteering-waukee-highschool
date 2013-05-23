@@ -11,4 +11,4 @@ Topic
     print 'hello world!'
 
 
-`Outline <README.rst>`_
+`Outline <outline.rst>`_
