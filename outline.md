@@ -6,7 +6,7 @@ Outline
 	* [Variables](syntax_variables.md)
 	* [Loops & Collections](syntax_loops_collections.md)
 	* [Conditionals](syntax_conditionals.md)
-	* Functions
+	* [Functions](syntax_functions.md)
 	* Classes
 * Intro to PyGame
 * Build a PyGame Event Loop
