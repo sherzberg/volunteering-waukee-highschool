@@ -1,7 +1,7 @@
 Outline
 =======
 
-* `Python Intro <001_intro.rst>`
+* `Python Intro <001_intro.rst>`_
 * Python Syntax
 * Intro to PyGame
 * Build a PyGame Event Loop
