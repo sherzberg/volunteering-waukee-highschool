@@ -16,6 +16,7 @@ Why People Choose Python
 * Easy Syntax
 * Batteries Included
 * Large Community
-* Easy to learn 
+* Easy to learn
+* The Intrepreter
 
-`Outline <outline.rst>`_
+[Outline](outline.rst)
