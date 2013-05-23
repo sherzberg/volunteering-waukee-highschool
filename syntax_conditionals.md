@@ -1,0 +1,24 @@
+Python Sytax
+============
+
+Conditionals
+------------
+
+```python
+print(True)
+print(False)
+
+print(True or False)
+print(True and False)
+
+if (45 == 1):
+    print("Yes, 45 == 1")
+else:
+    print("No, 45 != 1")
+
+print("a" == "b")
+print(5 > 1)
+```
+
+[Python Syntax](syntax.md)
+[Outline](outline.md)

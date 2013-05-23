@@ -3,9 +3,9 @@ Outline
 
 * [Python Intro](intro.md)
 * [Python Syntax](syntax.md)
-	* Variables
-	* Loops & Collections
-	* Conditionals
+	* [Variables](syntax_variables.md)
+	* [Loops & Collections](syntax_loops_collections.md)
+	* [Conditionals](syntax_conditionals.md)
 	* Functions
 ** Classes
 * Intro to PyGame
