@@ -1,7 +1,7 @@
 Python Sytax
 ============
 
-* [Variables](syntax_varialbes.md)
+* [Variables](syntax_variables.md)
 * [Loops & Collections](syntax_loops_collections.md)
 * [Conditionals](syntax_conditionals.md)
 * Functions

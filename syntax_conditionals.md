@@ -1,4 +1,4 @@
-Python Sytax
+Python Syntax
 ============
 
 Conditionals
