@@ -16,6 +16,23 @@ while current < sentinal:
     print(current)
     current += 1
 print("done!")
+
+d = {}
+d['key'] = 123
+d['otherkey'] = "hello"
+print(d)
+
+for key in d:
+    print(k)
+    print(d[k])
+    print('-------')
+
+for key, value in d.items()
+    print(key + ", " + value)
+
+print("string" in d)
+print("key" in d)
+
 ```
 
 [Python Syntax](syntax.md)
