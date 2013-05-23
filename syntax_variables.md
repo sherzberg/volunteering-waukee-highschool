@@ -1,8 +1,8 @@
-[Python Syntax](syntax.md)
+Python Syntax -> Variables
 ==========================
 
-Variables
----------
+Examples
+--------
 
 ```python
 

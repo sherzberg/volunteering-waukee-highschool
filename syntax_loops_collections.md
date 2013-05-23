@@ -1,8 +1,8 @@
-Python Syntax
-============
+Python Syntax -> Loops & Collections
+====================================
 
-Loops & Collections
------
+Examples
+--------
 
 ```python
 print range(10)

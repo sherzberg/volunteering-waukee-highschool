@@ -1,8 +1,8 @@
-Python Syntax
-============
+Python Syntax -> Conditionals
+=============================
 
-Conditionals
-------------
+Examples
+--------
 
 ```python
 print(True)
