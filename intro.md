@@ -5,7 +5,9 @@ What is Python
 --------------
 
 * Scripting Language
+* Functional Oriented Language
 * Object Oriented Language
+* Dynamaic Typing
 * Built into OSX and Linux
 * Open Source
 * Used in Blender, Maya, Gimp, ESRI, Google, ...
