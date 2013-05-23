@@ -13,4 +13,4 @@ print my_string
 print not_declared
 ```
 
-[Outline](outline.rst)
+[Outline](outline.md)

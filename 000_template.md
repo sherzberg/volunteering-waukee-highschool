@@ -11,4 +11,4 @@ Topic
 print 'hello world!'
 ```
 
-[Outline](outline.rst)
+[Outline](outline.md)

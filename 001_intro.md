@@ -19,4 +19,4 @@ Why People Choose Python
 * Easy to learn
 * The Intrepreter
 
-[Outline](outline.rst)
+[Outline](outline.md)
