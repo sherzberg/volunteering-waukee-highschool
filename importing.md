@@ -27,4 +27,20 @@ There are tons of libraries built in:
 * time
 * ... lots more
 
+You can even import your own code. Create a file named library.py:
+
+```python
+def multiply(x, y):
+    return x * y
+```
+
+Create a main.py file:
+
+```python
+import library
+
+answer = library.multiply(5, 6)
+print(answer)
+```
+
 [Outline](outline.md)
