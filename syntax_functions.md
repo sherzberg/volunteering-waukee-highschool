@@ -1,4 +1,4 @@
-Python Syntax -> Functions
+Python Syntax > Functions
 ==========================
 
 Examples

@@ -1,9 +1,9 @@
-Python Syntax -> Variables
+Python Syntax > Variables
 ==========================
 
 Examples
 --------
-
+string
 ```python
 
 i = 0

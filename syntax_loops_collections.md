@@ -1,4 +1,4 @@
-Python Syntax -> Loops & Collections
+Python Syntax > Loops & Collections
 ====================================
 
 Examples
@@ -15,7 +15,6 @@ current = 0
 while current < sentinal:
     print(current)
     current += 1
-print("done!")
 
 d = {}
 d['key'] = 123
@@ -23,8 +22,8 @@ d['otherkey'] = "hello"
 print(d)
 
 for key in d:
-    print(k)
-    print(d[k])
+    print(key)
+    print(d[key])
     print('-------')
 
 for key, value in d.items()

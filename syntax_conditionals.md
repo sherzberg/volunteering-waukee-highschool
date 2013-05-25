@@ -1,4 +1,4 @@
-Python Syntax -> Conditionals
+Python Syntax > Conditionals
 =============================
 
 Examples
