@@ -9,6 +9,7 @@ Outline
 	* [Conditionals](syntax_conditionals.md)
 	* [Functions](syntax_functions.md)
 	* Classes
+	* [Importing Libraries](importing.md)
 * Intro to PyGame
 * Build a PyGame Event Loop
 * Build a simple 2D Game
