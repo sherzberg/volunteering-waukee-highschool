@@ -4,7 +4,8 @@ Python Sytax
 * [Variables](syntax_variables.md)
 * [Loops & Collections](syntax_loops_collections.md)
 * [Conditionals](syntax_conditionals.md)
-* Functions
-* Classes
+* [Functions](syntax_functions.md)
+* [Classes](syntax_classes.md)
+* [Importing](syntax_importing.md)
 
 [Outline](outline.md)

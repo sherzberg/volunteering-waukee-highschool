@@ -8,7 +8,7 @@ Outline
 	* [Loops & Collections](syntax_loops_collections.md)
 	* [Conditionals](syntax_conditionals.md)
 	* [Functions](syntax_functions.md)
-	* Classes
+	* [Classes](syntax_classes.md)
 	* [Importing Libraries](importing.md)
 * Intro to PyGame
 * Build a PyGame Event Loop
