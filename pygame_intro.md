@@ -2,6 +2,7 @@ PyGame Intro
 ============
 
 [Website](http://www.pygame.org/)
+
 [Documentation](http://www.pygame.org/docs/)
 
 What is PyGame
