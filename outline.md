@@ -10,6 +10,6 @@ Outline
 	* [Functions](syntax_functions.md)
 	* [Classes](syntax_classes.md)
 	* [Importing Libraries](importing.md)
-* Intro to PyGame
+* [Intro to PyGame](pygame_intro.md)
 * Build a PyGame Event Loop
 * Build a simple 2D Game
