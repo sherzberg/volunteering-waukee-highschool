@@ -22,7 +22,8 @@ def main():
             if event.type == pygame.QUIT:
                 running = False
             elif event.type == pygame.KEYDOWN:
-                print("Key pressed: %s" % pygame.key.name(event.key))
+                key = pygame.key.name(event.key)
+                print("Key pressed: {key}".format(key=key))
                 if event.key == pygame.K_ESCAPE:
                     running = False
                 elif event.key == pygame.K_UP:
