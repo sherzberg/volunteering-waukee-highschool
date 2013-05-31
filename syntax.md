@@ -6,6 +6,6 @@ Python Sytax
 * [Conditionals](syntax_conditionals.md)
 * [Functions](syntax_functions.md)
 * [Classes](syntax_classes.md)
-* [Importing](syntax_importing.md)
+* [Imports & Libraries](syntax_importing.md)
 
 [Outline](outline.md)
