@@ -5,7 +5,7 @@ Outline
 * [Installing & Running Python](installing.md)
 * Python Syntax
 	* [Variables](syntax_variables.md)
-	* [Loops & Collections](syntax_loops_collections.md)
+	* [Loops & Iterables](syntax_loops_collections.md)
 	* [Conditionals](syntax_conditionals.md)
 	* [Functions](syntax_functions.md)
 	* [Classes](syntax_classes.md)
