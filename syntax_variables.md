@@ -21,6 +21,10 @@ b = 2
 print(b)
 
 print(not_declared)
+
+print(type(b))
+
+print(type(my_list) == type(b))
 ```
 
 
