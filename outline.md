@@ -9,7 +9,7 @@ Outline
 	* [Conditionals](syntax_conditionals.md)
 	* [Functions](syntax_functions.md)
 	* [Classes](syntax_classes.md)
-	* [Importing Libraries](importing.md)
+	* [Importing Libraries](syntax_importing.md)
 * [Intro to RaspberryPi](pi_intro.md)
 * [Intro to PyGame](pygame_intro.md)
 * Build a PyGame Event Loop
