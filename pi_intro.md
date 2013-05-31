@@ -7,9 +7,9 @@ Uses
 ----
 
 * Learning
-** Programming
-** Hardware
-** Electronics
+  * Programming
+  * Hardware
+  * Electronics
 * Home theater pc
 * Music server
 * Storage server
