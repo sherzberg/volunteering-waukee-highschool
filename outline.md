@@ -2,7 +2,7 @@ Outline
 =======
 
 * [Python Intro](intro.md)
-* [Installing & Running](installing.md)
+* [Installing & Running Python](installing.md)
 * Python Syntax
 	* [Variables](syntax_variables.md)
 	* [Loops & Collections](syntax_loops_collections.md)
