@@ -8,10 +8,8 @@ Examples
 import math
 
 class Ball(object):
-
     def __init__(self, radius):
         self.radius = radius
-
     def get_circumference(self):
         return 2 * self.radius * math.pi
 
