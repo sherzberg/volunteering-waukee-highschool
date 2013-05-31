@@ -1,5 +1,16 @@
-Python Syntax > Loops & Collections
+Python Syntax > Loops & Iterables
 ====================================
+
+Strings
+--------
+
+```python
+my_string = "abcdefg"
+
+print(len(my_string))
+for ch in my_string:
+    print ch
+```
 
 Lists
 --------
@@ -7,8 +18,9 @@ Lists
 ```python
 print([0,1,2,3,4,5,6,7,8,9])
 print(range(10))
+print(len(range(10)))
 
-for x in range(10):
+for x in range(1, 10, 2):
     print(x)
 
 sentinel = 4
