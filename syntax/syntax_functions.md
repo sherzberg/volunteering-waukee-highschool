@@ -32,6 +32,6 @@ undeclared()
 ```
 
 
-[Python Syntax](syntax.md)
+[Python Syntax](readme.md)
 
-[Outline](outline.md)
+[Outline](../outline.md)

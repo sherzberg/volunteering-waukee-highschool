@@ -51,5 +51,5 @@ print("key" in d)
 
 ```
 
-[Python Syntax](syntax.md)
-[Outline](outline.md)
+[Python Syntax](readme.md)
+[Outline](../outline.md)

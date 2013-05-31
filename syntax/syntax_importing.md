@@ -48,6 +48,6 @@ answer = library.multiply(5, 6)
 print(answer)
 ```
 
-[Python Syntax](syntax.md)
+[Python Syntax](readme.md)
 
-[Outline](outline.md)
+[Outline](../outline.md)

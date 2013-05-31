@@ -20,5 +20,5 @@ print("a" == "b")
 print(5 > 1)
 ```
 
-[Python Syntax](syntax.md)
-[Outline](outline.md)
+[Python Syntax](readme.md)
+[Outline](../outline.md)
