@@ -21,6 +21,7 @@ a = 0
 def calculate():
     a = 99
     print(a)
+    
 calculate()
 print(a)
 
