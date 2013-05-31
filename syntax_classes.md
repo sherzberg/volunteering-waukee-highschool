@@ -18,4 +18,6 @@ ball = Ball(5)
 print(ball.get_circumference())
 ```
 
+[Python Syntax](syntax.md)
+
 [Outline](outline.md)
