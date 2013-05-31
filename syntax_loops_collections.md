@@ -31,8 +31,8 @@ for key in d:
     print(d[key])
     print('-------')
 
-for key, value in d.items()
-    print(key + ", " + value)
+for key, value in d.items():
+    print(key + ", " + str(value))
 
 print("string" in d)
 print("key" in d)
