@@ -14,4 +14,4 @@ Uses
 * Music server
 * Storage server
 
-[Outline](outline.md)
+[Outline](../outline.md)

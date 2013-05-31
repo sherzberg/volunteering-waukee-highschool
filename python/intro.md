@@ -22,4 +22,4 @@ Why People Choose Python
 * Large Community
 * The Intrepreter
 
-[Outline](outline.md)
+[Outline](../outline.md)

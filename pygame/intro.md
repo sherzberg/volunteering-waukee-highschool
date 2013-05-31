@@ -13,4 +13,4 @@ What is PyGame
 * Can manage sound effects
 * Low level event, graphics, and sounds
 
-[Outline](outline.md)
+[Outline](../outline.md)

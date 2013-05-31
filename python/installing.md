@@ -56,4 +56,4 @@ Hello World
 $ 
 ```
 
-[Outline](outline.md)
+[Outline](../outline.md)
