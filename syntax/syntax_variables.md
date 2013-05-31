@@ -29,4 +29,5 @@ print(type(my_list) == type(b))
 
 
 [Python Syntax](readme.md)
+
 [Outline](../outline.md)
