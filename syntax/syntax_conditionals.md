@@ -21,4 +21,5 @@ print(5 > 1)
 ```
 
 [Python Syntax](readme.md)
+
 [Outline](../outline.md)
