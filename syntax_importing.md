@@ -19,6 +19,9 @@ print(math.pi)
 help(math)
 ```
 
+Libraries
+---------
+
 There are tons of libraries built in:
 
 * os
