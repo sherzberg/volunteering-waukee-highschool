@@ -3,7 +3,6 @@ Python Syntax > Variables
 
 Examples
 --------
-string
 ```python
 
 i = 0
