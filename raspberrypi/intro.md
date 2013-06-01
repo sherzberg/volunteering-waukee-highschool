@@ -3,6 +3,8 @@ RaspberryPi Intro
 
 [Website](http://www.raspberrypi.org/)
 
+[SD Card Setup](http://elinux.org/RPi_Easy_SD_Card_Setup)
+
 Uses
 ----
 
