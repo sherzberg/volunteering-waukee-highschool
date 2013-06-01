@@ -40,7 +40,7 @@ def random_list(size=10):
     lst = []
     for i in range(size):
         lst.append(random.randrange(1, 101))
-    return random_list
+    return lst
 
 print(random_list())
 print(random_list(2))
