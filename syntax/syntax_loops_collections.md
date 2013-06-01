@@ -25,9 +25,26 @@ for x in range(1, 10, 2):
 
 sentinel = 4
 current = 0
-while current < sentinal:
+while current < sentinel:
     print(current)
     current += 1
+
+l = [1,2,3]
+l.append(4)
+print(l)
+```
+
+Sets
+--------
+
+```python
+print({1,2,3,3})
+print(set([1,2,3,3]))
+
+s = {1,2,2}
+s.add(2)
+print(s)
+    
 ```
 
 Dictionaries
