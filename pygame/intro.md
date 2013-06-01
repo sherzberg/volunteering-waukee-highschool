@@ -13,7 +13,33 @@ What is PyGame
 * Can manage sound effects
 * Low level event, graphics, and sounds
 
-Examples
+Pygame Manages:
+
+* Lines, circles, points, polygons, arcs, ellipse
+* Sprites
+	* Movable shapes
+	* Images
+* Events
+	* Mouse movement
+	* Mouse clicks
+	* Keyboard events
+	* Controller events
+* Sounds
+
+Pygame Examples
+---------------
+
+[Examples Source](https://bitbucket.org/pygame/pygame/src/9fcb7abf3185ea321863fea640f8ee444170632f/examples?at=default)
+
+Running Examples:
+
+```python
+from pygame.examples import alien
+
+alien.main()
+```
+
+Tutorial
 --------
 
 * [examples/pygame-intro.py](../examples/pygame-intro.py)
