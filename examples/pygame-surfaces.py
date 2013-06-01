@@ -1,6 +1,7 @@
 import pygame
 pygame.init()
 
+
 def main():
     screen = pygame.display.set_mode((640, 480))
 
@@ -17,6 +18,7 @@ def main():
     running = True
     clock = pygame.time.Clock()
 
+    direction = (0, 0)
     while running:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -27,17 +29,15 @@ def main():
                 if event.key == pygame.K_ESCAPE:
                     running = False
                 elif event.key == pygame.K_UP:
-                    box_y -= 1
+                    direction = (0, 1)
                 elif event.key == pygame.K_DOWN:
-                    box_y += 1
-            elif event.type == pygame.MOUSEBUTTONDOWN:
-                line_start = pygame.mouse.get_pos()
-                pygame.draw.circle(background, (0, 0, 0), line_start, 5)
-            elif event.type == pygame.MOUSEBUTTONUP:
-                line_end = pygame.mouse.get_pos()
-                pygame.draw.line(background, (0, 0, 0), line_start, line_end, 3)
+                    direction = (0, -1)
+            elif event.type == pygame.KEYUP:
+                direction = (0, 0)
 
         screen.blit(background, (0, 0))
+        box_x += direction[0]
+        box_y += direction[1]
         screen.blit(box, (box_x, box_y))
         pygame.display.flip()
 
