@@ -13,4 +13,14 @@ What is PyGame
 * Can manage sound effects
 * Low level event, graphics, and sounds
 
+Examples
+--------
+
+* examples/pygame-intro.py
+  * Setup pygame
+  * Manage event loop
+* examples/pygame-surfaces.py
+  * Box surface
+  * Movement
+
 [Outline](../outline.md)
