@@ -14,5 +14,3 @@ Outline
 	* [Classes](syntax/syntax_classes.md)
 	* [Importing Libraries](syntax/syntax_importing.md)
 * [Intro to PyGame](pygame/intro.md)
-* Build a PyGame Event Loop
-* Build a simple 2D Game
