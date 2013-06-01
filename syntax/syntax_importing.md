@@ -26,6 +26,7 @@ There are tons of libraries built in:
 
 * os
 * sys
+* random
 * zipfile
 * time
 * ... lots more
