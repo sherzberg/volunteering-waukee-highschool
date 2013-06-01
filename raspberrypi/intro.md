@@ -15,5 +15,10 @@ Uses
 * Home theater pc
 * Music server
 * Storage server
+* Home Automattion
+  * Sprinklers
+  * Holiday Lights
+  * Motion Sensors
+  * Anything is possible
 
 [Outline](../outline.md)
