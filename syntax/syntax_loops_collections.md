@@ -32,6 +32,10 @@ while current < sentinel:
 l = [1,2,3]
 l.append(4)
 print(l)
+
+print(l[0])
+l[0] = 4
+print(l)
 ```
 
 Sets
@@ -44,8 +48,15 @@ print(set([1,2,3,3]))
 s = {1,2,2}
 s.add(2)
 print(s)
-    
 ```
+
+Tuples
+-------
+
+```python
+a = (1, 2, 2,)
+print(a)
+
 
 Dictionaries
 ------------
