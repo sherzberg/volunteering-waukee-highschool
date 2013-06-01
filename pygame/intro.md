@@ -16,10 +16,10 @@ What is PyGame
 Examples
 --------
 
-* examples/pygame-intro.py
+* [examples/pygame-intro.py](../examples/pygame-intro.py)
   * Setup pygame
   * Manage event loop
-* examples/pygame-surfaces.py
+* [examples/pygame-surfaces.py](../examples/pygame-surfaces.py)
   * Box surface
   * Movement
 
