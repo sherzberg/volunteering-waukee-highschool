@@ -5,7 +5,7 @@ Outline
 * [Installing & Running Python](python/installing.md)
 * RaspberryPi
 	* [Intro to RaspberryPi](raspberrypi/intro.md)
-	* [Intro to Linux](raspberrypi/linux_intro.md)
+	* [Intro to Linux](raspberrypi/linux-intro.md)
 * Python Syntax
 	* [Variables](syntax/syntax_variables.md)
 	* [Loops & Iterables](syntax/syntax_loops_collections.md)
