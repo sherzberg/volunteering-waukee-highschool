@@ -8,6 +8,7 @@ Flavors
 * Fedora
 * Ubuntu
 * Android
+* Many more
 
 Terminal Commands
 -----------------
