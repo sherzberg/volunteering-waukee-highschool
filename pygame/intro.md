@@ -34,9 +34,9 @@ Pygame Examples
 Running Examples:
 
 ```python
-from pygame.examples import alien
+from pygame.examples import aliens
 
-alien.main()
+aliens.main()
 ```
 
 Tutorial
