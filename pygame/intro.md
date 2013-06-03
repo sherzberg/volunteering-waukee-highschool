@@ -5,6 +5,8 @@ PyGame Intro
 
 [Documentation](http://www.pygame.org/docs/)
 
+[Good Resource](http://aharrisbooks.net/pythonGame/)
+
 What is PyGame
 --------------
 
