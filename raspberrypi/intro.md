@@ -5,6 +5,8 @@ RaspberryPi Intro
 
 [SD Card Setup](http://elinux.org/RPi_Easy_SD_Card_Setup)
 
+[Cool way to setup the Pi](http://www.raspberrypi.org/archives/4100)
+
 Uses
 ----
 
